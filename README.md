@@ -1,5 +1,5 @@
 # Discord-Bot
-A Discord bot written in C# using the Discord.NET Unofficial wrapper.  It features basic moderation features, such as channel renaming and kicking/banning.
+A Discord bot (nicknamed "The Shooter") written in C# using the Discord.NET Unofficial wrapper.  It features basic moderation features, such as channel renaming and kicking/banning.  The name of the bot was based off of the name of the text channel.  No real thought was poured into it.
 
 It's still a work-in-progress and features consistent updates.  After I've finished cleaning up the code and adding more features, I'll publicize the bot more for educational purposes.
 
