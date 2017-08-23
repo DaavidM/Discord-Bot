@@ -20,7 +20,7 @@ namespace TheShooterBot
             
             _client = new DiscordSocketClient();
 
-            await _client.LoginAsync(TokenType.Bot, "MzQ3MjM5MTY1MzYyMDQ0OTMw.DHYAdw.Eok8mVzJvwuOmHZRL-Pjv5bdkZg");
+            await _client.LoginAsync(TokenType.Bot, "TokenHere");
 
             await _client.StartAsync();
 
