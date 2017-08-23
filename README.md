@@ -14,6 +14,5 @@ This module should be able to solve basic mathematics problems.
 Will add commands/help documentation soon.
 
 *** NOTE***
-The Shooter was supposed to primarily be a greeting bot, hence the name of the file.  Don't let this fool you, however!
-Greetings.cs contains moderation features which will assist you in managing the channel.  In fact, a future update will feature a separate module altogether.
+The Shooter was supposed to primarily be a greeting bot, hence the name of the file Greetings.cs in src/Modules.  Don't let this fool you, however!  Greetings.cs contains moderation features which will assist you in managing your server.  In fact, a future update will feature a separate module altogether.
 - Daavid
